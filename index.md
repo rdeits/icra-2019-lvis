@@ -547,5 +547,7 @@ linear and angular velocity of the robot’s body. Yellow shaded region is the p
     * Code: <https://github.com/rdeits/LVIS-dev>
     * Slides: <https://rdeits.github.com/icra-2019-lvis/index.html>
 
-<img src="static/img/CSAIL.svg" height="85" style="float: left; border: 1px solid black; padding: 5px">
-<img src="static/img/hertz.gif" height="85" style="float: right; border: 1px solid black; padding: 5px">
+<img src="static/img/CSAIL.svg" height="85" style="float: left; border: none; padding: 5px">
+<img src="static/img/hertz.gif" height="85" style="float: left; border: none; padding: 5px">
+<img src="static/img/julia-logo-color.svg" height="85" style="float: left; border: none; padding: 5px">
+<img src="static/img/JR-with-text.svg" height="85" style="float: left; border: none; padding: 5px">
