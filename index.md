@@ -22,6 +22,8 @@ MIT CSAIL, Robot Locomotion Group
 
 May 23, 2019
 
+ <https://rdeits.github.com/icra-2019-lvis/>
+
 ----
 
 ### Motivation
@@ -543,3 +545,4 @@ linear and angular velocity of the robot’s body. Yellow shaded region is the p
 * For more information:
     * Paper: <https://arxiv.org/abs/1809.05802>
     * Code: <https://github.com/rdeits/LVIS-dev>
+    * Slides: <https://rdeits.github.com/icra-2019-lvis/index.html>
