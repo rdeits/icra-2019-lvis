@@ -1,5 +1,5 @@
 #!/bin/bash
 
-rm -rf ./docs
-mkdir -p docs
-reveal-md index.md --static docs --static-dirs=static
+rm -rf ./docs/slides
+mkdir -p docs/slides
+reveal-md index.md --static docs/slides --static-dirs=static
