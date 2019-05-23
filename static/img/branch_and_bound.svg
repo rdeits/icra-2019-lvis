@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   id="svg2206"
+   version="1.1"
+   viewBox="0 0 137.0764 89.207634"
+   height="89.207634mm"
+   width="137.0764mm">
+  <defs
+     id="defs2200">
+    <marker
+       style="overflow:visible"
+       id="marker4972"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:#ff0707;fill-opacity:1;fill-rule:evenodd;stroke:#ff0707;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path4970" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Sstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:#ff7301;fill-opacity:1;fill-rule:evenodd;stroke:#ff7301;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path3027" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4247" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path4250" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker6423"
+       style="overflow:visible">
+      <path
+         id="path6421"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#ff0707;fill-opacity:1;fill-rule:evenodd;stroke:#ff0707;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata2203">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-30.566135,-91.60074)"
+     id="layer1">
+    <path
+       id="path4221"
+       d="m 40.205307,110.33474 v 61.61012 h 83.532633"
+       style="fill:none;stroke:#000000;stroke-width:0.60000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)" />
+    <path
+       id="path3005"
+       d="m 40.065475,139.19494 c 26.805077,0 53.609889,0 80.414435,0"
+       style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.7, 0.7;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path3009"
+       d="m 43.490389,105.38444 v 13.31994 h 7.216277 v 1.87089 h 7.617183 v 3.20723 h 14.432555 v 2.40542 h 9.755338 v 5.34539 h 16.437044 v 2.00453 h 10.289874 v 3.60814 h 4.67722 v 1.87088 h 6.59466"
+       style="fill:none;stroke:#ff7301;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Sstart)" />
+    <path
+       id="path3011"
+       d="m 120.43967,139.31452 c -6.88967,0.31286 -13.77964,0.62573 -25.779142,1.18195 -11.999504,0.55622 -29.108075,1.35577 -39.055021,6.09867 -9.946945,4.74291 -12.730918,13.42891 -14.122998,17.7722 -1.39208,4.34329 -1.39208,4.34329 -1.39208,4.34329"
+       style="fill:none;stroke:#017fff;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       id="text3311"
+       y="179.66867"
+       x="57.221867"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.26458332"
+         y="179.66867"
+         x="57.221867"
+         id="tspan3309">Solver Iterations</tspan></text>
+    <text
+       transform="rotate(-90)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.3499999px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-163.90742"
+       y="36.042885"
+       id="text3477"><tspan
+         id="tspan3475"
+         x="-163.90742"
+         y="36.042885"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';stroke-width:0.26458332">Objective Value</tspan></text>
+    <text
+       id="text3481"
+       y="159.22768"
+       x="46.869053"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#017fff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';fill:#017fff;fill-opacity:1;stroke-width:0.26458332"
+         y="159.22768"
+         x="46.869053"
+         id="tspan3479">Lower bound</tspan><tspan
+         id="tspan3483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';fill:#017fff;fill-opacity:1;stroke-width:0.26458332"
+         y="164.71507"
+         x="46.869053">(tightest relaxation)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7301;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="41.577385"
+       y="95.538673"
+       id="text3489"><tspan
+         x="41.577385"
+         y="95.538673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';fill:#ff7301;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan3487">Upper bound</tspan><tspan
+         id="tspan3493"
+         x="41.577385"
+         y="101.02606"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';fill:#ff7301;fill-opacity:1;stroke-width:0.26458332">(best feasible solution)</tspan></text>
+    <text
+       id="text3497"
+       y="117.46131"
+       x="105.45536"
+       style="font-style:normal;font-weight:normal;font-size:9.8777771px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="126.20083"
+         x="105.45536"
+         id="tspan3495" /></text>
+    <text
+       id="text3503"
+       y="138.1743"
+       x="43.73185"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99607843;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math';fill:#000000;fill-opacity:0.99607843;stroke-width:0.26458332"
+         y="138.1743"
+         x="43.73185"
+         id="tspan3501">True optimum</tspan></text>
+    <g
+       transform="translate(0.8598958)"
+       style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g3522">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 87.196683,131.49334 c 0.913434,0 1.826606,0 2.739512,0"
+         id="path3507" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 88.566439,131.49334 c 0,3.10675 0,6.21376 0,9.32103"
+         id="path3511" />
+      <path
+         id="path3515"
+         d="m 87.196683,140.74676 c 0.456717,-7e-5 0.913368,-1.3e-4 1.370152,-1.3e-4 0.456785,0 0.912907,6e-5 1.36936,1.3e-4"
+         style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g3530"
+       style="stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(31.362031)" />
+    <rect
+       y="136.90555"
+       x="126.01757"
+       height="28.063301"
+       width="40.624966"
+       id="rect3536"
+       style="fill:none;fill-opacity:0.99607843;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <flowRoot
+       id="flowRoot3538"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99607843;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3540"><use
+           height="100%"
+           width="100%"
+           id="use3542"
+           xlink:href="#rect3536"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"
+         id="flowPara3544">When the upper and lower bounds meet, then the solver has found the global optimum.</flowPara></flowRoot>    <rect
+       style="fill:none;fill-opacity:0.99607843;stroke:none;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3546"
+       width="40.624966"
+       height="28.063301"
+       x="92.608879"
+       y="95.47876" />
+    <flowRoot
+       id="flowRoot3556"
+       style="font-style:normal;font-weight:normal;font-size:4.23333311px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.99607843;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><flowRegion
+         id="flowRegion3558"><use
+           height="100%"
+           width="100%"
+           id="use3560"
+           xlink:href="#rect3546"
+           y="0"
+           x="0" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Latin Modern Math';-inkscape-font-specification:'Latin Modern Math'"
+         id="flowPara3562">If we terminate the solver early, we know that the true optimal objective is within the current interval.</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#ff0707;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6423)"
+       d="m 104.97817,124.68392 c -4.50847,1.80895 -9.017261,3.61804 -13.526376,5.42725"
+       id="path6417" />
+    <path
+       id="path4966"
+       d="m 124.98045,150.33129 c -1.50206,-3.13552 -3.00407,-6.27092 -4.50603,-9.40621"
+       style="fill:none;stroke:#ff0707;stroke-width:0.40000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4972)" />
+  </g>
+</svg>
